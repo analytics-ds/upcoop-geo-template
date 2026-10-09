@@ -1,0 +1,202 @@
+{
+ "1": {
+  "gpt": "Swile 1er, Upcoop 4e",
+  "aio": "avec Upcoop"
+ },
+ "2": {
+  "gpt": "Swile 1er, Upcoop 4e",
+  "aio": "avec Upcoop"
+ },
+ "3": {
+  "gpt": "Swile 1er, Upcoop 4e",
+  "aio": "avec Upcoop"
+ },
+ "4": {
+  "gpt": "Swile 1er, Upcoop 4e",
+  "aio": "sans Upcoop"
+ },
+ "5": {
+  "gpt": "Swile 1er, Upcoop 3e",
+  "aio": "avec Upcoop"
+ },
+ "6": {
+  "gpt": "Edenred 1er, Upcoop 4e",
+  "aio": "avec Upcoop"
+ },
+ "7": {
+  "gpt": "Edenred 1er, Upcoop absent",
+  "aio": "avec Upcoop"
+ },
+ "8": {
+  "gpt": "Upcoop 1er",
+  "aio": "avec Upcoop"
+ },
+ "9": {
+  "gpt": "Swile 1er, Upcoop absent",
+  "aio": "sans Upcoop"
+ },
+ "10": {
+  "gpt": "Swile 1er, Upcoop absent",
+  "aio": "sans Upcoop"
+ },
+ "11": {
+  "gpt": "Edenred 1er, Upcoop absent",
+  "aio": "sans Upcoop"
+ },
+ "12": {
+  "gpt": "Swile 1er, Upcoop 5e",
+  "aio": "sans Upcoop"
+ },
+ "13": {
+  "gpt": "Edenred 1er, Upcoop 5e",
+  "aio": "avec Upcoop"
+ },
+ "14": {
+  "gpt": "Bimpli 1er, Upcoop absent",
+  "aio": "non lu"
+ },
+ "15": {
+  "gpt": "Edenred 1er, Upcoop 3e",
+  "aio": "avec Upcoop"
+ },
+ "16": {
+  "gpt": "Edenred 1er, Upcoop absent",
+  "aio": "sans Upcoop"
+ },
+ "17": {
+  "gpt": "aucune marque 1er, Upcoop absent",
+  "aio": "non lu"
+ },
+ "18": {
+  "gpt": "Swile 1er, Upcoop 5e",
+  "aio": "non lu"
+ },
+ "19": {
+  "gpt": "Edenred 1er, Upcoop 3e",
+  "aio": "non lu"
+ },
+ "20": {
+  "gpt": "Swile 1er, Upcoop 4e",
+  "aio": "sans Upcoop"
+ },
+ "21": {
+  "gpt": "Swile 1er, Upcoop 4e",
+  "aio": "sans Upcoop"
+ },
+ "22": {
+  "gpt": "Edenred 1er, Upcoop 4e",
+  "aio": "non lu"
+ },
+ "23": {
+  "gpt": "Edenred 1er, Upcoop 3e",
+  "aio": "non lu"
+ },
+ "24": {
+  "gpt": "Swile 1er, Upcoop 4e",
+  "aio": "non lu"
+ },
+ "25": {
+  "gpt": "Edenred 1er, Upcoop 3e",
+  "aio": "non lu"
+ },
+ "26": {
+  "gpt": "Swile 1er, Upcoop absent",
+  "aio": "sans Upcoop"
+ },
+ "27": {
+  "gpt": "Swile 1er, Upcoop 2e",
+  "aio": "non lu"
+ },
+ "28": {
+  "gpt": "Pluxee 1er, Upcoop absent",
+  "aio": "non lu"
+ },
+ "29": {
+  "gpt": "Edenred 1er, Upcoop 4e",
+  "aio": "sans Upcoop"
+ },
+ "30": {
+  "gpt": "aucune marque 1er, Upcoop absent",
+  "aio": "sans Upcoop"
+ },
+ "31": {
+  "gpt": "Edenred 1er, Upcoop 4e",
+  "aio": "sans Upcoop"
+ },
+ "32": {
+  "gpt": "Edenred 1er, Upcoop 3e",
+  "aio": "sans Upcoop"
+ },
+ "33": {
+  "gpt": "Swile 1er, Upcoop 4e",
+  "aio": "sans Upcoop"
+ },
+ "34": {
+  "gpt": "aucune marque 1er, Upcoop absent",
+  "aio": "sans Upcoop"
+ },
+ "35": {
+  "gpt": "Swile 1er, Upcoop absent",
+  "aio": "sans Upcoop"
+ },
+ "36": {
+  "gpt": "Swile 1er, Upcoop 4e",
+  "aio": "non lu"
+ },
+ "37": {
+  "gpt": "aucune marque 1er, Upcoop absent",
+  "aio": "sans Upcoop"
+ },
+ "38": {
+  "gpt": "Edenred 1er, Upcoop 4e",
+  "aio": "non lu"
+ },
+ "39": {
+  "gpt": "aucune marque 1er, Upcoop absent",
+  "aio": "non lu"
+ },
+ "40": {
+  "gpt": "Upcoop 1er",
+  "aio": "non lu"
+ },
+ "41": {
+  "gpt": "Edenred 1er, Upcoop 4e",
+  "aio": "non lu"
+ },
+ "42": {
+  "gpt": "Natixis Intertitres 1er, Upcoop 4e",
+  "aio": "non lu"
+ },
+ "43": {
+  "gpt": "Edenred 1er, Upcoop 2e",
+  "aio": "non lu"
+ },
+ "44": {
+  "gpt": "Upcoop 1er",
+  "aio": "non"
+ },
+ "45": {
+  "gpt": "Upcoop 1er",
+  "aio": "non lu"
+ },
+ "46": {
+  "gpt": "Upcoop 1er",
+  "aio": "non lu"
+ },
+ "47": {
+  "gpt": "Upcoop 1er",
+  "aio": "non lu"
+ },
+ "48": {
+  "gpt": "Upcoop 1er",
+  "aio": "non lu"
+ },
+ "49": {
+  "gpt": "Upcoop 1er",
+  "aio": "non lu"
+ },
+ "50": {
+  "gpt": "Upcoop 1er",
+  "aio": "non lu"
+ }
+}
